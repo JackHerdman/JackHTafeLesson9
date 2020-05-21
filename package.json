@@ -1,0 +1,22 @@
+{
+  "name": "jackhtafelesson9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "File.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackHerdmanTAFE/JackHTafeLesson9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackHerdmanTAFE/JackHTafeLesson9/issues"
+  },
+  "homepage": "https://github.com/JackHerdmanTAFE/JackHTafeLesson9#readme",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  }
+}
