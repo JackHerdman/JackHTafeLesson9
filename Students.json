@@ -1,0 +1,1327 @@
+[
+    {
+        "firstName": "Noah",
+        "lastName": "Anderson",
+        "age": 38,
+        "id": "2bcf24e8-db51-47f8-9bb9-42b4171f8bbe",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            29,
+            18,
+            6,
+            68,
+            16,
+            71
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Brown",
+        "age": 44,
+        "id": "07f76417-4bfc-449d-ad6c-ab4d1668f2ff",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            59,
+            23,
+            81,
+            59,
+            32
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Anderson",
+        "age": 57,
+        "id": "4500cff0-671a-49e8-bb37-b7252f5856b1",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            18,
+            29,
+            35,
+            41
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Taylor",
+        "age": 48,
+        "id": "87765335-885d-4c0c-9491-bbbffec46016",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            15
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Anderson",
+        "age": 56,
+        "id": "9ab13804-284d-4cb3-95aa-5e7014ea6ffd",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            74,
+            28,
+            20,
+            77,
+            98,
+            10,
+            66,
+            71
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Wilson",
+        "age": 34,
+        "id": "a717d17d-1859-42d8-b320-f377c00e17d9",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            84,
+            57,
+            93,
+            63,
+            29,
+            92,
+            43,
+            13,
+            71
+        ]
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Martin",
+        "age": 43,
+        "id": "fabd25d0-535a-47a3-90da-8967c37e00c7",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            77,
+            43,
+            10,
+            5,
+            20,
+            30,
+            89,
+            15,
+            78
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "Taylor",
+        "age": 59,
+        "id": "cc5e19ed-23a3-44e2-82a0-b65909852b3e",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            52,
+            16,
+            50,
+            20,
+            40,
+            6,
+            20,
+            82,
+            66
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "Smith",
+        "age": 39,
+        "id": "ad13ab42-2626-45b2-8c1b-33b807158631",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            96,
+            79,
+            57
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Wilson",
+        "age": 24,
+        "id": "17aaffe4-9e35-45dc-8a7f-6abbd70cd728",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            73,
+            92,
+            70,
+            42,
+            11,
+            29
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Williams",
+        "age": 42,
+        "id": "7f252faf-3d79-4a57-9957-64209cb9c19a",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            45
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Anderson",
+        "age": 53,
+        "id": "dc20d709-acdc-4bde-9526-9aba44477158",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Taylor",
+        "age": 59,
+        "id": "588ec37f-76f3-46a6-b880-355205988062",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            29,
+            66,
+            83,
+            64,
+            68,
+            55,
+            88,
+            32,
+            94
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Thompson",
+        "age": 33,
+        "id": "e0ed89d3-9ffe-4f2f-bb7f-7d30b90d6784",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            31,
+            98,
+            22,
+            75,
+            92,
+            1,
+            5,
+            98
+        ]
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Martin",
+        "age": 38,
+        "id": "7a6bef62-c2b3-45d2-8791-b74fe7312aea",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            72,
+            99,
+            77,
+            70
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Smith",
+        "age": 22,
+        "id": "a1b9d803-2194-429a-bad7-b29182e46673",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            9,
+            46,
+            13,
+            35,
+            23,
+            94,
+            90,
+            77
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Thompson",
+        "age": 51,
+        "id": "97bf66e1-e6af-4b60-b19a-04d64e5343b2",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            93,
+            23,
+            95,
+            51,
+            0,
+            65
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Smith",
+        "age": 27,
+        "id": "83c669c8-186c-47d6-bb68-9fe4c589c154",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            65,
+            77,
+            60,
+            64,
+            32,
+            2
+        ]
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Thompson",
+        "age": 33,
+        "id": "322c21c9-33d8-4bfe-b80e-dec811a7b9dc",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            2,
+            67,
+            15,
+            49,
+            46,
+            46,
+            55,
+            3,
+            55
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Wilson",
+        "age": 53,
+        "id": "955b771d-947e-4206-9561-3e30b930a377",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            10,
+            46,
+            17,
+            47,
+            3,
+            8,
+            76,
+            79
+        ]
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Anderson",
+        "age": 46,
+        "id": "b3aae959-2af4-424b-9ae6-0891c45d0a75",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            40,
+            92,
+            44,
+            54,
+            69,
+            75,
+            39,
+            35,
+            5
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Smith",
+        "age": 51,
+        "id": "91630af9-f92f-43f7-af6e-0183b749b214",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            20,
+            97
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Anderson",
+        "age": 51,
+        "id": "be6bd221-3b01-417b-9365-fa2273c9141b",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            77,
+            0,
+            79,
+            84,
+            46
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Wilson",
+        "age": 53,
+        "id": "8deb77b6-1a15-4515-adff-00a55db93b9e",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            12,
+            39,
+            60,
+            29,
+            42,
+            60,
+            67,
+            11
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Martin",
+        "age": 32,
+        "id": "14995487-4a86-4ec0-9dd5-a1c955f6e593",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            7,
+            43,
+            32,
+            61,
+            79,
+            82
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Jones",
+        "age": 22,
+        "id": "0b736821-936e-4f4a-b417-410d494fe9d3",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            58,
+            62,
+            97,
+            93,
+            38,
+            37,
+            27,
+            44
+        ]
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Martin",
+        "age": 43,
+        "id": "a367ff96-0db8-42c8-9f20-86a8a3949310",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Taylor",
+        "age": 53,
+        "id": "296efedb-4ddd-47c3-ad2a-892c443cd0ed",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            31,
+            43,
+            57,
+            10,
+            29
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "Williams",
+        "age": 25,
+        "id": "4f7d2584-bb35-40ba-9755-446d2bea38f4",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Wilson",
+        "age": 51,
+        "id": "820c07a8-f4b7-4ba9-8002-33757df14afe",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "White",
+        "age": 40,
+        "id": "5842a921-f549-490d-8175-86a0ffff4fc0",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            13,
+            23,
+            80,
+            14,
+            81,
+            66,
+            37
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Taylor",
+        "age": 28,
+        "id": "7970dab5-f2a0-41f3-a697-834bc3ceb105",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            54,
+            91,
+            57,
+            69
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Jones",
+        "age": 31,
+        "id": "212f79ab-d461-4963-9804-fb92e2a54b74",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            23,
+            79,
+            1,
+            79,
+            89,
+            92,
+            46,
+            78
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Martin",
+        "age": 19,
+        "id": "9bc720b0-33ef-4b0a-adc5-9300ac688661",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            56,
+            17,
+            91,
+            18,
+            3,
+            61,
+            29,
+            79,
+            96
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "age": 59,
+        "id": "d80b4cc3-aa03-4168-8c27-7923f1f8a7eb",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            51
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Taylor",
+        "age": 21,
+        "id": "b8df2b65-4d46-4a12-bf28-6a64663ce626",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            79,
+            11,
+            98,
+            1,
+            14
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Williams",
+        "age": 33,
+        "id": "756e8691-13b9-4cd0-a8a5-bd72e6f31270",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            3,
+            44
+        ]
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Thompson",
+        "age": 53,
+        "id": "c29c12c0-57b4-494f-a814-27170cef659f",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Smith",
+        "age": 41,
+        "id": "bd23eff4-a0de-49ec-85e7-7959b1b636e0",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            39,
+            59,
+            80
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Taylor",
+        "age": 53,
+        "id": "71ced5a6-2ce4-450a-b9d0-15ff60ab43b3",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Martin",
+        "age": 44,
+        "id": "12d5e42c-1583-436b-96e2-dccfcec10a5d",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "William",
+        "lastName": "Smith",
+        "age": 58,
+        "id": "b2b35f4d-0883-44b9-9094-311dba8738ae",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            70,
+            34,
+            24,
+            54,
+            21,
+            10,
+            91
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Wilson",
+        "age": 29,
+        "id": "39f3dd01-df4e-4393-a98f-af9d51d4e643",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            22,
+            72,
+            93,
+            8
+        ]
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Smith",
+        "age": 40,
+        "id": "0589b8b1-4a59-4280-b343-d781d7301475",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Smith",
+        "age": 31,
+        "id": "88031b91-1cdc-4d57-ae12-26dc594de0f9",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            5
+        ]
+    },
+    {
+        "firstName": "Ava",
+        "lastName": "Martin",
+        "age": 54,
+        "id": "b5fa9347-c6db-4e6a-b65c-81cb579ef6d8",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            92,
+            76,
+            41,
+            48,
+            6,
+            7,
+            32,
+            77,
+            64
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Wilson",
+        "age": 39,
+        "id": "24cd878f-3359-48ac-b6c5-b9ffeb231dfc",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            22
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Thompson",
+        "age": 58,
+        "id": "cd6c3943-a09f-4f7b-b5fc-d2222a68bbcf",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            47
+        ]
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Anderson",
+        "age": 23,
+        "id": "cb9a62e2-66b1-4e0f-93eb-956f09b753db",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            0,
+            8,
+            11
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Martin",
+        "age": 27,
+        "id": "97e86195-cfe8-4fde-a508-c81943ba4e2b",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            30,
+            0
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Brown",
+        "age": 49,
+        "id": "b533a48a-de6f-4fbf-a0d9-9b81872dbfcf",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Anderson",
+        "age": 51,
+        "id": "0dd1c37c-dd7f-42ff-bf65-da6d0a38788f",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            15,
+            90,
+            0
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "Johnson",
+        "age": 37,
+        "id": "5bf5bb93-6b74-4ca7-8063-caf2cf14c30e",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Martin",
+        "age": 23,
+        "id": "3420fb2e-74aa-4210-93d1-d8dd9e5a4f58",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Nguyen",
+        "age": 18,
+        "id": "0f806d0b-27bd-4daa-b864-b1fe43688483",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            78
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Anderson",
+        "age": 56,
+        "id": "e605b7de-b4d1-447c-8c07-f8be7c04a8ab",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            38,
+            86
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Wilson",
+        "age": 28,
+        "id": "2091f184-6b99-4c4e-a569-5ce3414c0bfa",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            45,
+            47,
+            71,
+            74,
+            40
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Brown",
+        "age": 46,
+        "id": "9974baff-2873-4024-a004-5b5b0da20efb",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            71,
+            50,
+            27,
+            17,
+            72,
+            87
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "age": 42,
+        "id": "ebb39d07-9ced-4e8e-ba69-dc08fc90818e",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            9,
+            99,
+            21,
+            27,
+            86,
+            56,
+            5
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Nguyen",
+        "age": 19,
+        "id": "50e39501-b596-4449-ac92-c5439232033a",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Anderson",
+        "age": 56,
+        "id": "1faf2478-cf67-4c08-8118-41f8543a5be1",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            37,
+            12,
+            89,
+            58,
+            0,
+            62,
+            76,
+            68,
+            86
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Johnson",
+        "age": 53,
+        "id": "effceb43-621d-4f07-91de-6bd409b206bc",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            98,
+            17,
+            63,
+            87,
+            24
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Johnson",
+        "age": 57,
+        "id": "91aa5c5b-52a5-439f-91e3-2770fa4ab753",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            56,
+            57,
+            32,
+            55,
+            13
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Martin",
+        "age": 26,
+        "id": "6ba3e12f-096a-48b0-a255-2b0f1f1c5758",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            15,
+            2,
+            53,
+            2
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Williams",
+        "age": 52,
+        "id": "b20fc7b6-4d1b-4735-9ab0-bbd80a2aefc2",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            31,
+            49,
+            74,
+            25,
+            87
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Wilson",
+        "age": 55,
+        "id": "458a5ac3-b8f8-428c-9498-873a28a6cc09",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            4,
+            52,
+            81,
+            97,
+            71,
+            3,
+            28,
+            55,
+            43
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Smith",
+        "age": 38,
+        "id": "fe849761-d264-4cd1-9981-5ea4519fd0b4",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            1
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Thompson",
+        "age": 36,
+        "id": "7abbdd3f-79ce-4e02-b997-c986dcf8eef1",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Johnson",
+        "age": 43,
+        "id": "4c9cca2f-ba1b-432e-aea0-88972c025ab7",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            77,
+            7,
+            49,
+            88,
+            92,
+            34,
+            58
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Wilson",
+        "age": 57,
+        "id": "f4598a60-0b52-4014-a887-35c0796d8209",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            69,
+            72
+        ]
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "White",
+        "age": 59,
+        "id": "3cfbd773-c17f-4854-9647-32aae81bf444",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            9,
+            69,
+            8,
+            3
+        ]
+    },
+    {
+        "firstName": "Amelia",
+        "lastName": "Taylor",
+        "age": 33,
+        "id": "2292d62f-6f1e-4d97-a6ff-3223c448b7e7",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            42,
+            17,
+            87,
+            84
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Anderson",
+        "age": 32,
+        "id": "4d04a6c6-c77f-456d-98ee-7833b6cb0a4c",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            93,
+            93
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Nguyen",
+        "age": 45,
+        "id": "db85b810-8d7e-4d6d-bdf7-92d93d56f70f",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": []
+    },
+    {
+        "firstName": "James",
+        "lastName": "Taylor",
+        "age": 41,
+        "id": "671e656e-0a41-4557-8365-fa3db76547db",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            85,
+            69,
+            70,
+            15,
+            97,
+            35
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Williams",
+        "age": 21,
+        "id": "07d71a13-d5bc-498d-a3d6-ff1d06b64480",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            48,
+            55,
+            60,
+            27,
+            87,
+            15,
+            86,
+            20,
+            48
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Wilson",
+        "age": 53,
+        "id": "5f3a485e-2911-49d7-8832-43bad229b132",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            69,
+            99,
+            50,
+            5,
+            77,
+            97,
+            69
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Williams",
+        "age": 25,
+        "id": "c23a3655-ba83-4e11-99ca-4128ce90bde9",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            71,
+            89,
+            69
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Williams",
+        "age": 47,
+        "id": "d2692a46-61c9-4044-bc30-fcd2fabee0fb",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            18,
+            21,
+            28,
+            7,
+            14,
+            15,
+            62,
+            34
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Wilson",
+        "age": 56,
+        "id": "cbd5e41d-0b19-4ffa-b44f-f1b6a99250ff",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            99,
+            23,
+            95,
+            66,
+            69,
+            85,
+            42,
+            48,
+            17
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Nguyen",
+        "age": 24,
+        "id": "6bc4803c-5901-41ec-ae42-c9cf42e67af9",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            34,
+            0,
+            84,
+            94
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Wilson",
+        "age": 42,
+        "id": "838efd7a-f1d5-46c1-8a46-bfc210a387d1",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            85,
+            5,
+            81,
+            11
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Johnson",
+        "age": 29,
+        "id": "18b7a06a-c576-449a-b50a-1d0586e2436e",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            55,
+            2
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Taylor",
+        "age": 18,
+        "id": "a47b5742-cb3e-4642-9821-6002d0436086",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            81,
+            35
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Smith",
+        "age": 31,
+        "id": "de329312-650b-4e3f-b4f3-be1a68552d6e",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            20,
+            87,
+            40,
+            28,
+            53,
+            1,
+            61,
+            69,
+            89
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Jones",
+        "age": 46,
+        "id": "376cb9c2-0b7b-4305-8c74-8a837091ebe6",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            90,
+            99,
+            92,
+            13,
+            60
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "White",
+        "age": 45,
+        "id": "d1fb919d-dcdc-4bfc-8c88-a0ca160253e3",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            90,
+            88,
+            17
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Williams",
+        "age": 18,
+        "id": "87ec4aa1-a66c-4557-b4a7-1a77389f2ef2",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            35,
+            77,
+            31,
+            82
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Wilson",
+        "age": 30,
+        "id": "08996d35-2bdc-4324-b267-991be1890526",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            37,
+            34,
+            95,
+            7,
+            13,
+            27
+        ]
+    },
+    {
+        "firstName": "Mia",
+        "lastName": "Thompson",
+        "age": 55,
+        "id": "72027ce4-2846-474c-bb2d-51a293309304",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            41,
+            88
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Smith",
+        "age": 37,
+        "id": "d1a4945c-e910-4faa-8fea-bd3a9c0a4167",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            5
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Johnson",
+        "age": 29,
+        "id": "a145859b-b15b-4ebb-bb21-03318d84263c",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            52,
+            55,
+            59,
+            49,
+            37
+        ]
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Martin",
+        "age": 30,
+        "id": "feb55996-cc91-4f68-a2f1-bb1be4e1288f",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            1,
+            69,
+            32,
+            14
+        ]
+    },
+    {
+        "firstName": "Jack",
+        "lastName": "Wilson",
+        "age": 20,
+        "id": "344d98b8-d931-4ace-9124-88cbf1c8a37f",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            10,
+            98,
+            59,
+            81,
+            44,
+            98,
+            43
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Martin",
+        "age": 32,
+        "id": "c619a28a-dac0-4586-81fd-d3a87bac290a",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            81,
+            80,
+            65,
+            18,
+            32,
+            93,
+            13,
+            34
+        ]
+    },
+    {
+        "firstName": "Isla",
+        "lastName": "Martin",
+        "age": 57,
+        "id": "6721bf1e-4644-4238-a4ac-7b945d41f977",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            58,
+            52,
+            79,
+            79,
+            63,
+            33,
+            18,
+            69,
+            46
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Nguyen",
+        "age": 34,
+        "id": "fde9b5fb-2380-41c4-aec9-a2e05cee6d66",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            21,
+            64,
+            53,
+            24
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Martin",
+        "age": 26,
+        "id": "2d78c08b-fd1a-471e-a370-2d279f9eab00",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            34,
+            76,
+            1
+        ]
+    },
+    {
+        "firstName": "Olivia",
+        "lastName": "Martin",
+        "age": 36,
+        "id": "8444ca03-4eee-49dc-a2bb-3d446d2621db",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            58,
+            85,
+            55,
+            2
+        ]
+    },
+    {
+        "firstName": "Noah",
+        "lastName": "Thompson",
+        "age": 28,
+        "id": "f4718ccc-8571-4e4d-ac74-5e0e8e8a3c6a",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            63
+        ]
+    }
+]
