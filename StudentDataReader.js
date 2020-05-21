@@ -25,7 +25,7 @@ class StudentDataReader {
     }
 
     updateStudent(student){
-        this.fileARray = this.fileArray.map(s =>{
+        this.fileArray = this.fileArray.map(s =>{
             if (s.id == student.id){
                 return student;
             } else {
