@@ -1,1 +1,31 @@
-[{"firstName":"Noah","lastName":"Anderson","age":38,"id":"2bcf24e8-db51-47f8-9bb9-42b4171f8bbe","teacherId":"7a673d78-a518-4630-8c58-3497ef3f10f7","grades":[29,18,6,68,16,71]},{"firstName":"Oliver","lastName":"Brown","age":44,"id":"07f76417-4bfc-449d-ad6c-ab4d1668f2ff","teacherId":"7a673d78-a518-4630-8c58-3497ef3f10f7","grades":[59,23,81,59,32]}]
+[
+    {
+        "firstName": "Noah",
+        "lastName": "Anderson",
+        "age": 38,
+        "id": "2bcf24e8-db51-47f8-9bb9-42b4171f8bbe",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            29,
+            18,
+            6,
+            68,
+            16,
+            71
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Brown",
+        "age": 44,
+        "id": "07f76417-4bfc-449d-ad6c-ab4d1668f2ff",
+        "teacherId": "7a673d78-a518-4630-8c58-3497ef3f10f7",
+        "grades": [
+            59,
+            23,
+            81,
+            59,
+            32
+        ]
+    }
+]

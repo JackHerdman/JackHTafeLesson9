@@ -5,7 +5,7 @@ class TeacherDataReader {
     constructor(fileName) {
         this.fileName = fileName;
     }
-    get fileArray() {
+    getArrayFromFile() {
         return JSON.parse(fs.readFileSync(this.fileName).toString()).map(teacherRaw => new Teacher(
             teacherRaw.firstName,
             teacherRaw.lastName,
@@ -14,30 +14,35 @@ class TeacherDataReader {
         ));
     }
 
-    set fileArray(value) {
-        fs.writeFileSync(this.fileName, JSON.stringify(value));
+    saveArrayToFile(teachers) {
+        fs.writeFileSync(this.fileName, JSON.stringify(teachers));
     }
 
-    getTeacher(id) {
-        return this.fileArray.find(teacher => teacher.id == id);
+    getTeacherById(id) {
+        let teachers = this.getArrayFromFile();
+        return teachers.find(teacher => teacher.id == id);
     }
 
-    updateTeacher(teacher){
-        this.fileArray = this.fileArray.map(t =>{
-            if (t.id == teacher.id){
-                return teacher;
+    updateTeacher(teacherToUpdate) {
+        let teachers = this.getArrayFromFile();
+        let updatedTeachers = teachers.map(teacherInArray => {
+            if (teacherInArray.id == teacherToUpdate.id) {
+                return teacherToUpdate;
             } else {
-                return t;
+                return teacherInArray;
             }
         })
+        this.saveArrayToFile(updatedTeachers);
     }
 
-    deleteTeacher(id){
-        this.fileArray = this.fileArray.Filter(t => t.id != id);
+    deleteTeacher(id) {
+        let newTeacherArray = this.getArrayFromFile().filter(teacher => teacher.id != id);
+        this.saveArrayToFile(newTeacherArray);
     }
 
-    addTeacher(teacher){
-        this.fileArray = this.fileArray.concat([teacher]);
+    addTeacher(teacher) {
+        let newTeacherArray = this.getArrayFromFile().concat([teacher]);
+        this.saveArrayToFile(newTeacherArray)
     }
 }
 
